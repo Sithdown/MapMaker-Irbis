@@ -34,18 +34,16 @@
 	<SFML/Window.hpp>
 	<SFML/System.hpp>
 
-1314101842 source:f:\2011\arpiyi\mapmaker-irbis\mapmaker\main.cpp
+1314135459 source:f:\2011\arpiyi\mapmaker-irbis\mapmaker\main.cpp
 	<iostream>
 	<SFML/Graphics.hpp>
 	<SFML/Window.hpp>
 	<SFML/System.hpp>
-	"GameManager.h"
-	"InputHandler.h"
-	"Drawer.h"
 	<windows.h>
 	<tchar.h>
 	<stdlib.h>
 	<string.h>
+	"IDS.h"
 
 1314042297 source:f:\2011\arpiyi\mapmaker-irbis\mapmaker\utilidades.cpp
 	<iostream>
@@ -62,4 +60,29 @@
 	"GameManager.h"
 	"Drawer.h"
 	"utilidades.h"
+
+1314122080 source:f:\2011\arpiyi\mapmaker-irbis\mapmaker\win005.cpp
+	<windows.h>
+	"IDS.h"
+
+1314134626 f:\2011\arpiyi\mapmaker-irbis\mapmaker\ids.h
+
+1314123102 source:f:\2011\arpiyi\mapmaker-irbis\mapmaker\win011.c
+	<windows.h>
+	"IDS.h"
+
+1314125191 source:f:\2011\arpiyi\mapmaker-irbis\mapmaker\win011.rc
+	<windows.h>
+	"IDS.H"
+
+1314124078 source:f:\2011\arpiyi\mapmaker-irbis\mapmaker\win011.cpp
+	<iostream>
+	<SFML/Graphics.hpp>
+	<SFML/Window.hpp>
+	<SFML/System.hpp>
+	<windows.h>
+	<tchar.h>
+	<stdlib.h>
+	<string.h>
+	"IDS.h"
 
