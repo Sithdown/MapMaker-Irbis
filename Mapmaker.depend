@@ -1,0 +1,65 @@
+# depslib dependency file v1.0
+1314094107 source:f:\2011\arpiyi\mapmaker-irbis\mapmaker\gamemanager.cpp
+	<iostream>
+	<cstring>
+	<string>
+	<fstream>
+	<vector>
+	"GameManager.h"
+	"utilidades.h"
+
+1314042297 f:\2011\arpiyi\mapmaker-irbis\mapmaker\gamemanager.h
+	<iostream>
+	<fstream>
+	<vector>
+
+1314042297 f:\2011\arpiyi\mapmaker-irbis\mapmaker\utilidades.h
+	<iostream>
+	<string>
+
+1314094848 source:f:\2011\arpiyi\mapmaker-irbis\mapmaker\inputhandler.cpp
+	<iostream>
+	<SFML/Window.hpp>
+	"GameManager.h"
+	"InputHandler.h"
+	"Drawer.h"
+
+1314044971 f:\2011\arpiyi\mapmaker-irbis\mapmaker\inputhandler.h
+	<SFML/Graphics.hpp>
+	<SFML/Window.hpp>
+
+1314094333 f:\2011\arpiyi\mapmaker-irbis\mapmaker\drawer.h
+	<vector>
+	<SFML/Graphics.hpp>
+	<SFML/Window.hpp>
+	<SFML/System.hpp>
+
+1314101842 source:f:\2011\arpiyi\mapmaker-irbis\mapmaker\main.cpp
+	<iostream>
+	<SFML/Graphics.hpp>
+	<SFML/Window.hpp>
+	<SFML/System.hpp>
+	"GameManager.h"
+	"InputHandler.h"
+	"Drawer.h"
+	<windows.h>
+	<tchar.h>
+	<stdlib.h>
+	<string.h>
+
+1314042297 source:f:\2011\arpiyi\mapmaker-irbis\mapmaker\utilidades.cpp
+	<iostream>
+	<string>
+	"utilidades.h"
+
+1314094742 source:f:\2011\arpiyi\mapmaker-irbis\mapmaker\drawer.cpp
+	<iostream>
+	<string>
+	<vector>
+	<SFML/Graphics.hpp>
+	<SFML/Window.hpp>
+	<SFML/System.hpp>
+	"GameManager.h"
+	"Drawer.h"
+	"utilidades.h"
+
