@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 <CodeBlocks_layout_file>
-	<ActiveTarget name="Debug" />
+	<ActiveTarget name="Release" />
 	<File name="IDS.h" open="1" top="0" tabpos="2">
 		<Cursor position="291" topLine="0" />
 	</File>
 	<File name="main.cpp" open="1" top="1" tabpos="1">
-		<Cursor position="5114" topLine="149" />
+		<Cursor position="8997" topLine="242" />
 	</File>
 	<File name="win011.rc" open="1" top="0" tabpos="3">
-		<Cursor position="464" topLine="0" />
+		<Cursor position="558" topLine="0" />
 	</File>
 </CodeBlocks_layout_file>

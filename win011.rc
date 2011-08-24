@@ -3,14 +3,21 @@
 
 Menu MENU
 BEGIN
- POPUP "&Archivo"
- BEGIN
-  MENUITEM "&Diálogo", CM_DIALOGO
- END
- POPUP "&Edición"
- BEGIN
-  MENUITEM "&Diálogo", CM_DIALOGO
- END
+    POPUP "&Archivo"
+        BEGIN
+            MENUITEM "&Diálogo", CM_DIALOGO
+            MENUITEM "&Salir", CM_CLOSE
+        END
+    POPUP "&Edición"
+        BEGIN
+            MENUITEM "&Diálogo", CM_DIALOGO
+        END
+    POPUP "&Ver"
+        BEGIN
+            MENUITEM "1440x900", CM_SIZEA
+            MENUITEM "1680x1050", CM_SIZEB
+            MENUITEM "1920x1080", CM_SIZEC
+        END
 END
 
 DialogoPrueba DIALOG 0, 0, 189, 106
